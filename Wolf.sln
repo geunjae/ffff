@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wolf.CSharp.Plugins", "Wolf.CSharp.Plugins.csproj", "{DDE910DC-0F79-5CE2-FFBD-5D62A098726F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wolf.CSharp.Editor", "Wolf.CSharp.Editor.csproj", "{57BE5C29-0AA4-0FA5-FB64-FE0B81238585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE910DC-0F79-5CE2-FFBD-5D62A098726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE910DC-0F79-5CE2-FFBD-5D62A098726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE910DC-0F79-5CE2-FFBD-5D62A098726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE910DC-0F79-5CE2-FFBD-5D62A098726F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BE5C29-0AA4-0FA5-FB64-FE0B81238585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BE5C29-0AA4-0FA5-FB64-FE0B81238585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BE5C29-0AA4-0FA5-FB64-FE0B81238585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BE5C29-0AA4-0FA5-FB64-FE0B81238585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
